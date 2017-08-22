@@ -1,2 +1,2 @@
-# govalidator
-Golang struct validator
+# govalidator by bruce-sz
+Golang struct validator 
